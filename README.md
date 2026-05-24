@@ -3,9 +3,9 @@ This project was created in Google Colab using Python to explore how Singular Va
 
 I used:
 
-Pandas
-NumPy
-Matplotlib
+• Pandas
+• NumPy
+• Matplotlib
 
 The project includes:
 
